@@ -1,0 +1,27 @@
+.panel {
+    background-color: var(--panelBackground-color);
+    display: block;
+    border: 3px solid  var(--panelBorder-color);
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    margin-top: 0px;
+    margin-left: 300px;
+    position: absolute;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.panelGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.panelButton {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 9px;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: rgb(203, 201, 201);
+}

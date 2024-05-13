@@ -1,0 +1,11 @@
+.totalPrice {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 3px solid  #413b5e; */
+    position: relative;
+    font-size: 0.8em;
+    padding-right: 40px;
+}
+

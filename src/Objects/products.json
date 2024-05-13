@@ -1,0 +1,41 @@
+[{
+    "id": 1,
+    "name": "Coca-cola 2.25L",
+    "price": 2800,
+    "tags": [
+        "Gaseosas"
+    ]
+},
+{
+    "id": 2,
+    "name": "Fideos spaghetti - Marolio",
+    "price": 800,
+    "tags": [
+        "Fideos", "Marolio"
+    ]
+},
+{
+    "id": 3,
+    "name": "Lata de atún",
+    "price": 1200,
+    "tags": [
+        "Enlatados"
+    ]
+},
+{
+    "id": 4,
+    "name": "Salsa de tomate - Marolio",
+    "price": 1200,
+    "tags": [
+        "Salsas"
+    ]
+},
+{
+    "id": 5,
+    "name": "Galletitas Don Satur agridulces",
+    "price": 800,
+    "tags": [
+        "Galletitas"
+    ]
+}
+]

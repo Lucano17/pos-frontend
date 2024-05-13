@@ -1,0 +1,31 @@
+.itemsAdded {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    border: 1px solid  #000000;
+    padding-left: 400px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    position: relative;
+    font-size: 0.5em;
+    overflow: auto;
+    max-height: 150px
+}
+
+.itemsAdded h2 {
+    padding-bottom: 120px;
+    padding-top: 0px;
+    padding-left:0px;
+    display: block;
+}
+
+.itemsAdded ul {
+    padding-left: 30px;
+    font-size: 1.5em;
+    font-weight: 600 ;
+}
+
+.itemsAdded span {
+    font-weight: 700;
+}
